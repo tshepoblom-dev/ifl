@@ -1,0 +1,2 @@
+C:/ifl/main_files/android/app/.cxx/RelWithDebInfo/y2e3y4e6/x86_64/CMakeFiles/edit_cache.dir
+C:/ifl/main_files/android/app/.cxx/RelWithDebInfo/y2e3y4e6/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/tamilarasankannan/Documents/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/tamilarasankannan/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/tamilarasankannan/Documents/client-works/codecanyon/gps_pro_traccar_2.0/android/app/.cxx/Debug/3s5p173j/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/tamilarasankannan/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/tamilarasankannan/Documents/client-works/codecanyon/gps_pro_traccar_2.0/android/app/.cxx/Debug/3s5p173j/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
